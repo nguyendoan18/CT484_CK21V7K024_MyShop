@@ -25,6 +25,9 @@ class MyApp extends StatelessWidget {
           secondary: Colors.deepOrange,
         ),
       ),
+      // home: Container(
+      //   color: Colors.green,
+      // ),
       // home: SafeArea(
       //     child: ProductDetailScreen(
       //   ProductManager().items[0],
